@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Word
+comment1.params=
+comment1.target=Word()
+comment2.params=word
+comment2.target=Word(java.lang.String)
+comment3.params=
+comment3.target=int\ getNumVowels()
+comment4.params=
+comment4.target=int\ getLength()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

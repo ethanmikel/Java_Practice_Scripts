@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ListOddToEven
+comment1.params=ray
+comment1.target=int\ go(java.util.List)
+numComments=2

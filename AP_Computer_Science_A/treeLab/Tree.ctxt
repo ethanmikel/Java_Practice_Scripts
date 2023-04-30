@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Tree
+comment1.params=
+comment1.target=Tree()
+comment2.params=window
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=window
+comment3.target=void\ tree(java.awt.Graphics)
+comment4.params=window
+comment4.target=void\ star(java.awt.Graphics)
+comment5.params=window
+comment5.target=void\ stem(java.awt.Graphics)
+comment6.params=window
+comment6.target=void\ lights(java.awt.Graphics)
+comment7.params=window
+comment7.target=void\ presents(java.awt.Graphics)
+numComments=8
